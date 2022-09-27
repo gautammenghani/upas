@@ -1,2 +1,1 @@
-# upas
-Unkillable process as service
+A linux kernel module that can make the calling userspace process unkillable. The details are in the blog post [here](https://gautammenghani.com/linux,/c/2022/05/08/create-unkillable-linux-process.html)
